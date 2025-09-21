@@ -19,3 +19,11 @@ shape = SubResource("CircleShape2D_1bvp3")
 [node name="Icon" type="Sprite2D" parent="CharacterBody2D"]
 position = Vector2(336, 174)
 texture = ExtResource("2_h2yge")
+
+[node name="Icon2" type="Sprite2D" parent="CharacterBody2D"]
+position = Vector2(569, 495)
+texture = ExtResource("2_h2yge")
+
+[node name="Icon3" type="Sprite2D" parent="CharacterBody2D"]
+position = Vector2(544, 387)
+texture = ExtResource("2_h2yge")
