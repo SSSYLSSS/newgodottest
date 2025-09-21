@@ -11,6 +11,10 @@ config_version=5
 [application]
 
 config/name="newtest"
+<<<<<<< HEAD
 run/main_scene="uid://bbddvml012af1"
+=======
+run/main_scene="res://dash.tscn"
+>>>>>>> somenew
 config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://icon.svg"
