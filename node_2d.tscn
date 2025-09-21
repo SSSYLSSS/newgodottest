@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 [gd_scene load_steps=2 format=3 uid="uid://c28i8g8gwna8a"]
+=======
+[gd_scene load_steps=2 format=3 uid="uid://b7cl8k8mykggn"]
+>>>>>>> 1f6a5a8002e4996ee6f1f200316356b276db86f0
 
 [ext_resource type="Texture2D" uid="uid://chvmkuo6is6v1" path="res://icon.svg" id="1_wtcfe"]
 
